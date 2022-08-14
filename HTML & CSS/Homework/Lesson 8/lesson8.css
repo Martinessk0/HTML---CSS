@@ -1,0 +1,46 @@
+.name-input {
+    display: block;
+    margin-bottom: 6px;
+}
+
+.email-input {
+    margin-bottom: 50px;
+}
+
+.text {
+    vertical-align: middle;
+    display: inline-block;
+    font-weight: bold;
+    width: 210px;
+}
+
+.yes-button {
+    vertical-align: middle;
+}
+
+.no-button {
+    vertical-align: middle;
+}
+
+.google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.google-search-bar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 43px;
+    width: 700px;
+    font-size: 18px;
+    border-width: 1px;
+    border-radius: 40px;
+    border: none;
+    padding-left: 20px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+}

@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div1{
+    background-color: gray;
+}
+.div2{
+    background-color: lightpink;
+
+}
+.div3{
+    background-color: gray;
+}
+.div3{
+    background-color: gray;
+
+}
+

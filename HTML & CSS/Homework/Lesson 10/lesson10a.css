@@ -1,0 +1,68 @@
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.profil-preview{
+    margin-bottom: 13px;
+}
+.profil-picture-window{
+    display: inline-block;
+    vertical-align: middle;
+}
+.info-window{
+    display: inline-block;
+    vertical-align: middle;
+}
+.button-window{
+    display: inline-block;
+    vertical-align: middle;
+}
+.image{
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 0px;
+    margin-right: 10px;
+}
+.username,
+.user-status,
+.status{
+    width: 70px;
+}
+.username{
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+}
+.user-status{
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+.status{
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+.follow-button {
+    display: inline-block;
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 80px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 0px;
+    margin-left: 150px;
+    transition: box-shadow 0.15s;
+}
+
+.follow-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border: none;
+}

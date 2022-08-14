@@ -1,0 +1,158 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tahoma-text{
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: bold;
+}
+.deals-text{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.sales-text{
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+.html-title{
+    font-family: Verdana;
+    font-size: 30px;
+    font-weight: bold;
+}
+.subtitle-text{
+    font-family: Verdana;
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 15px;
+}
+.verdena-text{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-right: 20px;
+    width: 370px;
+    margin-bottom: 30px;
+}
+.get-button{
+    background-color: rgb(1, 156, 1);
+    color: white;
+    border-radius: 8px;
+    border-style: none;
+    height: 36px;
+    width: 120px;
+}
+.shop-title{
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 13px;
+}
+.apple-text{
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 13px;
+}
+.learn-text{
+    text-align: center;
+    font-family: Arial;
+    font-size: 13px;
+    color: rgb(45, 148, 245);
+}
+.learn-text:hover{
+    text-decoration: underline;
+}
+.new-text{
+    color: rgb(236, 93, 10);
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 6px;
+}
+.macbook-text{
+    font-family: Arial;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.supercharge-text{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.from-text{
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.buy-button{
+    background-color: rgb(9, 121, 248);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    height: 24px;
+    width: 40px;
+    text-align: center;
+    left: 50%;
+}
+.price-text{
+    font-family: Arial;
+    font-size: 40px;
+}
+.currency-text{
+    font-family: Arial;
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 7px;
+}
+.currency-level{
+    font-family: Arial;
+    font-size: 15px;
+    color: rgb(11, 158, 11);
+    margin-bottom: 3px;
+}
+.after-hours{
+    font-family: Arial;
+    font-size: 15px;
+    color: gray;
+}
+.red-text{
+    font-family: Arial;
+    font-size: 15px;
+    color: red;
+}
+.username{
+    font-family: Arial;
+    font-size: 13px;
+    color: gray;
+}
+.username-text{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.twitter-text{
+    font-family: Arial;
+    font-size: 13px;
+    width: 450px;
+    margin-bottom: 14px;
+}
+.info-text{
+    font-family: Arial;
+    font-size: 13px;
+}
+.twitter-username{
+    color: rgb(74, 135, 216);
+}

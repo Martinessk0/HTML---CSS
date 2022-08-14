@@ -1,0 +1,140 @@
+.request-button{
+    color: white;
+    background-color: black;
+    height: 40px;
+    width: 130px;
+    font-weight: bold;
+    margin-right: 20px;
+    transition: opacity 0.15s;
+}
+.request-button:hover{
+    opacity: 0.6;
+}
+.addToCart-button{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    border-radius: 19px;
+    height: 40px;
+    width: 170px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-right: 20px;
+    transition: background-color 0.15s;
+}
+.addToCart-button:hover{
+    background-color: rgb(221, 188, 21);
+}
+.signUp-button{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-right: 20px;
+    transition:  box-shadow 0.15s;
+}
+.signUp-button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.getStarted-button{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 120px;
+    font-weight: bold;
+    transition: background-color 0.15s;
+}
+.getStarted-button:hover{
+    background-color: rgb(99, 59, 158);
+}
+.download-button{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border-color: rgb(108, 117, 125);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    height: 40px;
+    width: 110px;
+    font-weight: bold;
+    transition: background-color 0.15s,color 0.15s;
+}
+.download-button:hover{
+    background-color:rgb(108, 117, 125) ;
+    color: white;
+}
+.apply-button{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width: 220px;
+    font-weight: bold;
+    transition: background-color 0.15s;
+}
+.apply-button:hover{
+    background-color: rgb(26, 100, 173)
+}
+.save-button{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border-width: 1px;
+    border-radius: 18px;
+    height: 40px;
+    width: 74px;
+    transition: background-color 0.15s,border-width 0.15s;
+}
+.save-button:hover{
+    background-color: rgb(228, 227, 227);
+    border-width: 3px;
+}
+.amazon-link{
+    color: rgb(0, 113, 133);
+    transition: color 0.15s;
+}
+.amazon-link:hover{
+    color: red;
+}
+.price-paragraph{
+    color: rgb(0, 118, 0);
+}
+.add-button{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 110px;
+    font-weight: bold;
+    transition: opacity 0.15s;
+}
+.add-button:hover{
+    opacity: 0.7;
+}
+.add-button:active{
+    opacity: 0.4;
+}
+.buy-button{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 110px;
+    font-weight: bold;
+    transition: opacity 0.15s;
+}
+.buy-button:hover{
+    opacity: 0.7;
+}
+.buy-button:active{
+    opacity: 0.4;
+}

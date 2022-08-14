@@ -1,0 +1,105 @@
+.cat1{
+    width: 200px;
+    border-radius: 12px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.cat2{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.cat3{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.cat4{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    vertical-align: middle;
+    object-position: center;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.search-bar{
+    height: 43px;
+    width: 240px;
+    font-size: 27px;
+    border-width: 1px;
+    border-radius: 6px;
+    margin-bottom: 50px;
+}
+.google-search-bar{
+    height: 43px;
+    width: 500px;
+    font-size: 18px;
+    border-width: 1px;
+    border-radius: 40px;
+    border: none;
+    padding-left: 20px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+}
+.email-text{
+    font-family: arial;
+    font-size: 16px;
+    color: gray;
+}
+.email-bar{
+    height: 43px;
+    width: 320px;
+    font-size: 18px;
+    border-width: 2px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+.policy-text{
+    font-family: arial;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 18px;
+}
+.agree-button{
+    background-color: rgb(56, 121, 219);
+    color: white;
+    font-size: 18px;
+    width: 330px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 100px;
+}
+.twitter-bar{
+    vertical-align: middle;
+    height: 43px;
+    width: 300px;
+    font-size: 18px;
+    border: none;
+    
+}
+.tweet-button{
+    vertical-align: middle;
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 75px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;  
+    transition: box-shadow 0.15s;
+}
+.tweet-button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border: none;
+}

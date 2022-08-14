@@ -1,0 +1,94 @@
+.firstName-bar {
+    display: inline-block;
+    font-size: 15px;
+    border-color: gray;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+
+.lastName-bar {
+    display: inline-block;
+    font-size: 15px;
+    border-color: gray;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.email-bar {
+    display: block;
+    font-size: 15px;
+    width: 210px;
+    height: 30px;
+    border-color: gray;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.signUp-button {
+    background-color: rgb(60, 133, 202);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    width: 215px;
+    height: 30px;
+    border-width: 1px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 50px;
+}
+
+.title-text {
+    font-family: Arial;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.location-bar {
+    display: block;
+    padding-left: 15px;
+    background-color: rgba(173, 170, 170, 0.438);
+    border: none;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 270px;
+    height: 35px;
+    margin-bottom: 5px;
+}
+
+.destination-bar {
+    display: block;
+    padding-left: 15px;
+    background-color: rgba(173, 170, 170, 0.438);
+    border: none;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 270px;
+    height: 35px;
+    margin-bottom: 20px;
+
+}
+
+.request-button{
+    color: white;
+    background-color: black;
+    height: 40px;
+    width: 130px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.schedule-button{
+    color: black;
+    background-color:rgba(173, 170, 170, 0.438);
+    border: none;
+    height: 40px;
+    width: 140px;
+    font-weight: bold;
+    margin-right: 20px;
+}

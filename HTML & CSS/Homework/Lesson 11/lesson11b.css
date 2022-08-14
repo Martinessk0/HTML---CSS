@@ -1,0 +1,13 @@
+.div-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+.div1{
+    background-color: gray;
+}
+.div2{
+    background-color: #ffb6c1;
+}
+.div3{
+    background-color: gray;
+}
